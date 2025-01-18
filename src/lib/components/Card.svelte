@@ -17,7 +17,7 @@
 
   // image props
   export let img = "";
-  export let back = "https://tcg.pokemon.com/assets/img/global/tcg-card-back-2x.jpg";
+  export let back = "/card-back.png";
   export let foil = "";
   export let mask = "";
 
@@ -26,20 +26,19 @@
 
   const randomSeed = {
     x: Math.random(),
-    y: Math.random()
-  }
+    y: Math.random(),
+  };
 
-  const cosmosPosition = { 
-    x: Math.floor( randomSeed.x * 734 ), 
-    y: Math.floor( randomSeed.y * 1280 ) 
+  const cosmosPosition = {
+    x: Math.floor(randomSeed.x * 734),
+    y: Math.floor(randomSeed.y * 1280),
   };
 
   let isTrainerGallery = false;
 
   let back_img = back;
   let front_img = "";
-  let img_base = img.startsWith("http") ? "" : "https://images.pokemontcg.io/";
-
+  let img_base = img.startsWith("http") ? "" : "http://localhost:5173";
 
   let thisCard;
   let repositionTimer;
@@ -74,13 +73,12 @@
   };
 
   const interact = (e) => {
-    
     endShowcase();
 
     if (!isVisible) {
       return (interacting = false);
     }
-    
+
     // prevent other background cards being interacted with
     if ($activeCard && $activeCard !== thisCard) {
       return (interacting = false);
@@ -108,17 +106,21 @@
       y: percent.y - 50,
     };
 
-    updateSprings({
-      x: adjust(percent.x, 0, 100, 37, 63),
-      y: adjust(percent.y, 0, 100, 33, 67),
-    },{
-      x: round(-(center.x / 3.5)),
-      y: round(center.y / 2),
-    },{
-      x: round(percent.x),
-      y: round(percent.y),
-      o: 1,
-    });
+    updateSprings(
+      {
+        x: adjust(percent.x, 0, 100, 37, 63),
+        y: adjust(percent.y, 0, 100, 33, 67),
+      },
+      {
+        x: round(-(center.x / 3.5)),
+        y: round(center.y / 2),
+      },
+      {
+        x: round(percent.x),
+        y: round(percent.y),
+        o: 1,
+      },
+    );
   };
 
   const interactEnd = (e, delay = 500) => {
@@ -147,22 +149,6 @@
     } else {
       $activeCard = thisCard;
       resetBaseOrientation();
-      // @ts-ignore
-      gtag("event", "select_item", {
-        item_list_id: "cards_list",
-        item_list_name: "Pokemon Cards",
-        items: [
-          {
-            item_id: id,
-            item_name: name,
-            item_category: set,
-            item_category2: supertype,
-            item_category3: subtypes,
-            item_category4: rarity
-          }
-        ]
-      });
-
     }
   };
 
@@ -238,7 +224,6 @@
     }
   }
 
-
   let foilStyles = ``;
   const staticStyles = `
     --seedx: ${randomSeed.x};
@@ -248,11 +233,14 @@
   $: dynamicStyles = `
     --pointer-x: ${$springGlare.x}%;
     --pointer-y: ${$springGlare.y}%;
-    --pointer-from-center: ${ 
-      clamp( Math.sqrt( 
-        ($springGlare.y - 50) * ($springGlare.y - 50) + 
-        ($springGlare.x - 50) * ($springGlare.x - 50) 
-      ) / 50, 0, 1) };
+    --pointer-from-center: ${clamp(
+      Math.sqrt(
+        ($springGlare.y - 50) * ($springGlare.y - 50) +
+          ($springGlare.x - 50) * ($springGlare.x - 50),
+      ) / 50,
+      0,
+      1,
+    )};
     --pointer-from-top: ${$springGlare.y / 100};
     --pointer-from-left: ${$springGlare.x / 100};
     --card-opacity: ${$springGlare.o};
@@ -269,7 +257,9 @@
     rarity = rarity.toLowerCase();
     supertype = supertype.toLowerCase();
     number = number.toLowerCase();
-    isTrainerGallery = !!number.match(/^[tg]g/i) || !!( id === "swshp-SWSH076" || id === "swshp-SWSH077" );
+    isTrainerGallery =
+      !!number.match(/^[tg]g/i) ||
+      !!(id === "swshp-SWSH076" || id === "swshp-SWSH077");
     if (Array.isArray(types)) {
       types = types.join(" ").toLowerCase();
     }
@@ -279,32 +269,33 @@
   }
 
   const orientate = (e) => {
-
     const x = e.relative.gamma;
     const y = e.relative.beta;
     const limit = { x: 16, y: 18 };
 
-    const degrees = { 
-      x: clamp(x, -limit.x, limit.x), 
-      y: clamp(y, -limit.y, limit.y) 
+    const degrees = {
+      x: clamp(x, -limit.x, limit.x),
+      y: clamp(y, -limit.y, limit.y),
     };
 
-    updateSprings({
-      x: adjust(degrees.x, -limit.x, limit.x, 37, 63),
-      y: adjust(degrees.y, -limit.y, limit.y, 33, 67),
-    },{
-      x: round(degrees.x * -1),
-      y: round(degrees.y),
-    },{
-      x: adjust(degrees.x, -limit.x, limit.x, 0, 100),
-      y: adjust(degrees.y, -limit.y, limit.y, 0, 100),
-      o: 1,
-    });
-
+    updateSprings(
+      {
+        x: adjust(degrees.x, -limit.x, limit.x, 37, 63),
+        y: adjust(degrees.y, -limit.y, limit.y, 33, 67),
+      },
+      {
+        x: round(degrees.x * -1),
+        y: round(degrees.y),
+      },
+      {
+        x: adjust(degrees.x, -limit.x, limit.x, 0, 100),
+        y: adjust(degrees.y, -limit.y, limit.y, 0, 100),
+        o: 1,
+      },
+    );
   };
 
-  const updateSprings = ( background, rotate, glare ) => {
-
+  const updateSprings = (background, rotate, glare) => {
     springBackground.stiffness = springInteractSettings.stiffness;
     springBackground.damping = springInteractSettings.damping;
     springRotate.stiffness = springInteractSettings.stiffness;
@@ -315,8 +306,7 @@
     springBackground.set(background);
     springRotate.set(rotate);
     springGlare.set(glare);
-
-  }
+  };
 
   $: {
     if ($activeCard && $activeCard === thisCard) {
@@ -333,7 +323,7 @@
 
   const imageLoader = (e) => {
     loading = false;
-    if ( mask || foil ) {
+    if (mask || foil) {
       foilStyles = `
     --mask: url(${mask});
     --foil: url(${foil});
@@ -342,7 +332,6 @@
   };
 
   onMount(() => {
-
     // set the front image on mount so that
     // the lazyloading can work correctly
     front_img = img_base + img;
@@ -394,7 +383,7 @@
 <svelte:window on:scroll={reposition} />
 
 <div
-  class="card {types} / interactive / "
+  class="card {types} / interactive /"
   class:active
   class:interacting
   class:loading
@@ -408,8 +397,7 @@
   style={dynamicStyles}
   bind:this={thisCard}
 >
-  <div 
-    class="card__translater">
+  <div class="card__translater">
     <button
       class="card__rotator"
       on:click={activate}
@@ -418,7 +406,7 @@
       on:blur={deactivate}
       aria-label="Expand the Pokemon Card; {name}."
       tabindex="0"
-      >
+    >
       <img
         class="card__back"
         src={back_img}
@@ -427,8 +415,7 @@
         width="660"
         height="921"
       />
-      <div class="card__front" 
-        style={ staticStyles + foilStyles }>
+      <div class="card__front" style={staticStyles + foilStyles}>
         <img
           src={front_img}
           alt="Front design of the {name} Pokemon Card, with the stats and info around the edge"
@@ -445,7 +432,6 @@
 </div>
 
 <style>
-
   :root {
     --pointer-x: 50%;
     --pointer-y: 50%;
@@ -457,9 +443,8 @@
     --rotate-y: 0deg;
     --background-x: var(--pointer-x);
     --background-y: var(--pointer-y);
-    --pointer-from-center: 0;    
+    --pointer-from-center: 0;
     --pointer-from-top: var(--pointer-from-center);
     --pointer-from-left: var(--pointer-from-center);
   }
-
 </style>

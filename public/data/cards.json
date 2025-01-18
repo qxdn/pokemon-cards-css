@@ -3,11 +3,11 @@
     "id": "swsh12pt5-160",
     "set": "swsh12pt5",
     "name": "Pikachu",
-    "supertype": "Pokémon",
-    "subtypes": ["Basic"],
+    "supertype": "pokémon",
+    "subtypes": ["Normal"],
     "types": ["Lightning"],
     "number": "160",
-    "rarity": "Rare Secret",
+    "rarity": "rare holo v",
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/160.png",
       "large": "https://images.pokemontcg.io/swsh12pt5/160_hires.png"
