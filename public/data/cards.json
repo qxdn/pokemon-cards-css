@@ -18,14 +18,11 @@
     "set": "sm10",
     "name": "Squirtle",
     "supertype": "Pokémon",
-    "subtypes": ["Basic"],
+    "subtypes": ["Normal"],
     "types": ["Water"],
     "number": "33",
-    "rarity": "Common",
-    "images": {
-      "small": "https://images.pokemontcg.io/sm10/33.png",
-      "large": "https://images.pokemontcg.io/sm10/33_hires.png"
-    }
+    "rarity": "rare holo v",
+    "images": "https://r2.yadaze.com/cards/acc21515ee20a16cc0c1d4151ee54ff8c804c86a710af99d77d2771b.webp"
   },
   {
     "id": "sm115-7",
@@ -33,13 +30,10 @@
     "name": "Charmander",
     "supertype": "Pokémon",
     "subtypes": ["Basic"],
-    "types": ["Fire"],
-    "number": "7",
-    "rarity": "Common",
-    "images": {
-      "small": "https://images.pokemontcg.io/sm115/7.png",
-      "large": "https://images.pokemontcg.io/sm115/7_hires.png"
-    }
+    "types": ["Water"],
+    "number": "33",
+    "rarity": "rare holo v",
+    "images": "https://cdn.233.momobako.com/ygopro/pics/84815190.jpg"
   },
   {
     "id": "sm35-1",
