@@ -1,1097 +1,1122 @@
-[
-    {
-        "id": "48452496",
-        "set": "48452496",
-        "name": "48452496",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "48452496",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/48452496.jpg"
-    },
-    {
-        "id": "48452496",
-        "set": "48452496",
-        "name": "48452496",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "48452496",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/48452496.jpg"
-    },
-    {
-        "id": "84941194",
-        "set": "84941194",
-        "name": "84941194",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "84941194",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/84941194.jpg"
-    },
-    {
-        "id": "84941194",
-        "set": "84941194",
-        "name": "84941194",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "84941194",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/84941194.jpg"
-    },
-    {
-        "id": "84941194",
-        "set": "84941194",
-        "name": "84941194",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "84941194",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/84941194.jpg"
-    },
-    {
-        "id": "27260347",
-        "set": "27260347",
-        "name": "27260347",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "27260347",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/27260347.jpg"
-    },
-    {
-        "id": "32731036",
-        "set": "32731036",
-        "name": "32731036",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "32731036",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/32731036.jpg"
-    },
-    {
-        "id": "74725513",
-        "set": "74725513",
-        "name": "74725513",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "74725513",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/74725513.jpg"
-    },
-    {
-        "id": "47330808",
-        "set": "47330808",
-        "name": "47330808",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "47330808",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/47330808.jpg"
-    },
-    {
-        "id": "11335209",
-        "set": "11335209",
-        "name": "11335209",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "11335209",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/11335209.jpg"
-    },
-    {
-        "id": "72270339",
-        "set": "72270339",
-        "name": "72270339",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "72270339",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/72270339.jpg"
-    },
-    {
-        "id": "72270339",
-        "set": "72270339",
-        "name": "72270339",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "72270339",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/72270339.jpg"
-    },
-    {
-        "id": "6637331",
-        "set": "6637331",
-        "name": "6637331",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "6637331",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/6637331.jpg"
-    },
-    {
-        "id": "33854624",
-        "set": "33854624",
-        "name": "33854624",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "33854624",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/33854624.jpg"
-    },
-    {
-        "id": "60242223",
-        "set": "60242223",
-        "name": "60242223",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "60242223",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/60242223.jpg"
-    },
-    {
-        "id": "72656408",
-        "set": "72656408",
-        "name": "72656408",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "72656408",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/72656408.jpg"
-    },
-    {
-        "id": "55623480",
-        "set": "55623480",
-        "name": "55623480",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "55623480",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/55623480.jpg"
-    },
-    {
-        "id": "14558127",
-        "set": "14558127",
-        "name": "14558127",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "14558127",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/14558127.jpg"
-    },
-    {
-        "id": "14558127",
-        "set": "14558127",
-        "name": "14558127",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "14558127",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/14558127.jpg"
-    },
-    {
-        "id": "14558127",
-        "set": "14558127",
-        "name": "14558127",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "14558127",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/14558127.jpg"
-    },
-    {
-        "id": "59438930",
-        "set": "59438930",
-        "name": "59438930",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "59438930",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/59438930.jpg"
-    },
-    {
-        "id": "59438930",
-        "set": "59438930",
-        "name": "59438930",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "59438930",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/59438930.jpg"
-    },
-    {
-        "id": "90020780",
-        "set": "90020780",
-        "name": "90020780",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "90020780",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/90020780.jpg"
-    },
-    {
-        "id": "77202120",
-        "set": "77202120",
-        "name": "77202120",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "77202120",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/77202120.jpg"
-    },
-    {
-        "id": "77202120",
-        "set": "77202120",
-        "name": "77202120",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "77202120",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/77202120.jpg"
-    },
-    {
-        "id": "77202120",
-        "set": "77202120",
-        "name": "77202120",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "77202120",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/77202120.jpg"
-    },
-    {
-        "id": "23434538",
-        "set": "23434538",
-        "name": "23434538",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "23434538",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/23434538.jpg"
-    },
-    {
-        "id": "23434538",
-        "set": "23434538",
-        "name": "23434538",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "23434538",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/23434538.jpg"
-    },
-    {
-        "id": "23434538",
-        "set": "23434538",
-        "name": "23434538",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "23434538",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/23434538.jpg"
-    },
-    {
-        "id": "30765615",
-        "set": "30765615",
-        "name": "30765615",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "30765615",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/30765615.jpg"
-    },
-    {
-        "id": "30765615",
-        "set": "30765615",
-        "name": "30765615",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "30765615",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/30765615.jpg"
-    },
-    {
-        "id": "30765615",
-        "set": "30765615",
-        "name": "30765615",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "30765615",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/30765615.jpg"
-    },
-    {
-        "id": "35405755",
-        "set": "35405755",
-        "name": "35405755",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "35405755",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/35405755.jpg"
-    },
-    {
-        "id": "45663742",
-        "set": "45663742",
-        "name": "45663742",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "45663742",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/45663742.jpg"
-    },
-    {
-        "id": "9674034",
-        "set": "9674034",
-        "name": "9674034",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "9674034",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/9674034.jpg"
-    },
-    {
-        "id": "9674034",
-        "set": "9674034",
-        "name": "9674034",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "9674034",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/9674034.jpg"
-    },
-    {
-        "id": "90241276",
-        "set": "90241276",
-        "name": "90241276",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "90241276",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/90241276.jpg"
-    },
-    {
-        "id": "90241276",
-        "set": "90241276",
-        "name": "90241276",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "90241276",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/90241276.jpg"
-    },
-    {
-        "id": "9742784",
-        "set": "9742784",
-        "name": "9742784",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "9742784",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/9742784.jpg"
-    },
-    {
-        "id": "12058741",
-        "set": "12058741",
-        "name": "12058741",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "12058741",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/12058741.jpg"
-    },
-    {
-        "id": "24081957",
-        "set": "24081957",
-        "name": "24081957",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "24081957",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/24081957.jpg"
-    },
-    {
-        "id": "25311006",
-        "set": "25311006",
-        "name": "25311006",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "25311006",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/25311006.jpg"
-    },
-    {
-        "id": "35269904",
-        "set": "35269904",
-        "name": "35269904",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "35269904",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/35269904.jpg"
-    },
-    {
-        "id": "89023486",
-        "set": "89023486",
-        "name": "89023486",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "89023486",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/89023486.jpg"
-    },
-    {
-        "id": "24224830",
-        "set": "24224830",
-        "name": "24224830",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "24224830",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/24224830.jpg"
-    },
-    {
-        "id": "24224830",
-        "set": "24224830",
-        "name": "24224830",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "24224830",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/24224830.jpg"
-    },
-    {
-        "id": "80845034",
-        "set": "80845034",
-        "name": "80845034",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "80845034",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/80845034.jpg"
-    },
-    {
-        "id": "80845034",
-        "set": "80845034",
-        "name": "80845034",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "80845034",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/80845034.jpg"
-    },
-    {
-        "id": "80845034",
-        "set": "80845034",
-        "name": "80845034",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "80845034",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/80845034.jpg"
-    },
-    {
-        "id": "16528181",
-        "set": "16528181",
-        "name": "16528181",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "16528181",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/16528181.jpg"
-    },
-    {
-        "id": "16528181",
-        "set": "16528181",
-        "name": "16528181",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "16528181",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/16528181.jpg"
-    },
-    {
-        "id": "34090915",
-        "set": "34090915",
-        "name": "34090915",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "34090915",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/34090915.jpg"
-    },
-    {
-        "id": "53639887",
-        "set": "53639887",
-        "name": "53639887",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "53639887",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/53639887.jpg"
-    },
-    {
-        "id": "32756828",
-        "set": "32756828",
-        "name": "32756828",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "32756828",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/32756828.jpg"
-    },
-    {
-        "id": "27572350",
-        "set": "27572350",
-        "name": "27572350",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "27572350",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/27572350.jpg"
-    },
-    {
-        "id": "22850702",
-        "set": "22850702",
-        "name": "22850702",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "22850702",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/22850702.jpg"
-    },
-    {
-        "id": "96633955",
-        "set": "96633955",
-        "name": "96633955",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "96633955",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/96633955.jpg"
-    },
-    {
-        "id": "84815190",
-        "set": "84815190",
-        "name": "84815190",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "84815190",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/84815190.jpg"
-    },
-    {
-        "id": "30983281",
-        "set": "30983281",
-        "name": "30983281",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "30983281",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/30983281.jpg"
-    },
-    {
-        "id": "44508094",
-        "set": "44508094",
-        "name": "44508094",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "44508094",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/44508094.jpg"
-    },
-    {
-        "id": "90448279",
-        "set": "90448279",
-        "name": "90448279",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "90448279",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/90448279.jpg"
-    },
-    {
-        "id": "93039339",
-        "set": "93039339",
-        "name": "93039339",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "93039339",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/93039339.jpg"
-    },
-    {
-        "id": "73082255",
-        "set": "73082255",
-        "name": "73082255",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "73082255",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/73082255.jpg"
-    },
-    {
-        "id": "63767246",
-        "set": "63767246",
-        "name": "63767246",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "63767246",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/63767246.jpg"
-    },
-    {
-        "id": "38342336",
-        "set": "38342336",
-        "name": "38342336",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "38342336",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/38342336.jpg"
-    },
-    {
-        "id": "29301450",
-        "set": "29301450",
-        "name": "29301450",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "29301450",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/29301450.jpg"
-    },
-    {
-        "id": "65741786",
-        "set": "65741786",
-        "name": "65741786",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "65741786",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/65741786.jpg"
-    },
-    {
-        "id": "41999284",
-        "set": "41999284",
-        "name": "41999284",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "41999284",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/41999284.jpg"
-    },
-    {
-        "id": "50091196",
-        "set": "50091196",
-        "name": "50091196",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "50091196",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/50091196.jpg"
-    },
-    {
-        "id": "9753964",
-        "set": "9753964",
-        "name": "9753964",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "9753964",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/9753964.jpg"
-    },
-    {
-        "id": "72329844",
-        "set": "72329844",
-        "name": "72329844",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "72329844",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/72329844.jpg"
-    },
-    {
-        "id": "60303245",
-        "set": "60303245",
-        "name": "60303245",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "60303245",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/60303245.jpg"
-    },
-    {
-        "id": "3040496",
-        "set": "3040496",
-        "name": "3040496",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Normal"
-        ],
-        "types": [
-            "Water"
-        ],
-        "number": "3040496",
-        "rarity": "rare holo v",
-        "images": "https://cdn.233.momobako.com/ygopro/pics/3040496.jpg"
-    }
-]
+{
+    "showcase": {
+        "id": "swsh12pt5-160",
+        "set": "swsh12pt5",
+        "name": "Pikachu",
+        "supertype": "pokémon",
+        "subtypes": [
+            "Normal"
+        ],
+        "types": [
+            "Lightning"
+        ],
+        "number": "160",
+        "rarity": "rare holo v",
+        "images": "/demo.png"
+    },
+    "decks": [
+        {
+            "main": [
+                {
+                    "id": "48452496",
+                    "set": "48452496",
+                    "name": "48452496",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "48452496",
+                    "rarity": "Rare Ultra",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/48452496.jpg"
+                },
+                {
+                    "id": "48452496",
+                    "set": "48452496",
+                    "name": "48452496",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "48452496",
+                    "rarity": "trainer gallery rare holo",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/48452496.jpg"
+                },
+                {
+                    "id": "84941194",
+                    "set": "84941194",
+                    "name": "84941194",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "84941194",
+                    "rarity": "Rare Rainbow",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/84941194.jpg"
+                },
+                {
+                    "id": "84941194",
+                    "set": "84941194",
+                    "name": "84941194",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "84941194",
+                    "rarity": "trainer gallery rare holo",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/84941194.jpg"
+                },
+                {
+                    "id": "84941194",
+                    "set": "84941194",
+                    "name": "84941194",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "84941194",
+                    "rarity": "Rare Holo VSTAR",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/84941194.jpg"
+                },
+                {
+                    "id": "27260347",
+                    "set": "27260347",
+                    "name": "27260347",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "27260347",
+                    "rarity": "Rare Ultra",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/27260347.jpg"
+                },
+                {
+                    "id": "32731036",
+                    "set": "32731036",
+                    "name": "32731036",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "32731036",
+                    "rarity": "rare holo v",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/32731036.jpg"
+                },
+                {
+                    "id": "74725513",
+                    "set": "74725513",
+                    "name": "74725513",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "74725513",
+                    "rarity": "trainer gallery rare holo",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/74725513.jpg"
+                },
+                {
+                    "id": "47330808",
+                    "set": "47330808",
+                    "name": "47330808",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "47330808",
+                    "rarity": "Rare Ultra",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/47330808.jpg"
+                },
+                {
+                    "id": "11335209",
+                    "set": "11335209",
+                    "name": "11335209",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "11335209",
+                    "rarity": "Radiant Rare",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/11335209.jpg"
+                },
+                {
+                    "id": "72270339",
+                    "set": "72270339",
+                    "name": "72270339",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "72270339",
+                    "rarity": "Radiant Rare",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/72270339.jpg"
+                },
+                {
+                    "id": "72270339",
+                    "set": "72270339",
+                    "name": "72270339",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "72270339",
+                    "rarity": "trainer gallery rare holo",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/72270339.jpg"
+                },
+                {
+                    "id": "6637331",
+                    "set": "6637331",
+                    "name": "6637331",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "6637331",
+                    "rarity": "trainer gallery rare holo",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/6637331.jpg"
+                },
+                {
+                    "id": "33854624",
+                    "set": "33854624",
+                    "name": "33854624",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "33854624",
+                    "rarity": "Rare Ultra",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/33854624.jpg"
+                },
+                {
+                    "id": "60242223",
+                    "set": "60242223",
+                    "name": "60242223",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "60242223",
+                    "rarity": "rare holo v",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/60242223.jpg"
+                },
+                {
+                    "id": "72656408",
+                    "set": "72656408",
+                    "name": "72656408",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "72656408",
+                    "rarity": "trainer gallery rare holo",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/72656408.jpg"
+                },
+                {
+                    "id": "55623480",
+                    "set": "55623480",
+                    "name": "55623480",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "55623480",
+                    "rarity": "Radiant Rare",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/55623480.jpg"
+                },
+                {
+                    "id": "14558127",
+                    "set": "14558127",
+                    "name": "14558127",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "14558127",
+                    "rarity": "Rare Rainbow",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/14558127.jpg"
+                },
+                {
+                    "id": "14558127",
+                    "set": "14558127",
+                    "name": "14558127",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "14558127",
+                    "rarity": "Radiant Rare",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/14558127.jpg"
+                },
+                {
+                    "id": "14558127",
+                    "set": "14558127",
+                    "name": "14558127",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "14558127",
+                    "rarity": "Rare Holo VMAX",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/14558127.jpg"
+                },
+                {
+                    "id": "59438930",
+                    "set": "59438930",
+                    "name": "59438930",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "59438930",
+                    "rarity": "Rare Holo VMAX",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/59438930.jpg"
+                },
+                {
+                    "id": "59438930",
+                    "set": "59438930",
+                    "name": "59438930",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "59438930",
+                    "rarity": "Rare Ultra",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/59438930.jpg"
+                },
+                {
+                    "id": "90020780",
+                    "set": "90020780",
+                    "name": "90020780",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "90020780",
+                    "rarity": "Rare Ultra",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/90020780.jpg"
+                },
+                {
+                    "id": "77202120",
+                    "set": "77202120",
+                    "name": "77202120",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "77202120",
+                    "rarity": "trainer gallery rare holo",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/77202120.jpg"
+                },
+                {
+                    "id": "77202120",
+                    "set": "77202120",
+                    "name": "77202120",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "77202120",
+                    "rarity": "Rare Rainbow",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/77202120.jpg"
+                },
+                {
+                    "id": "77202120",
+                    "set": "77202120",
+                    "name": "77202120",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "77202120",
+                    "rarity": "trainer gallery rare holo",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/77202120.jpg"
+                },
+                {
+                    "id": "23434538",
+                    "set": "23434538",
+                    "name": "23434538",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "23434538",
+                    "rarity": "Radiant Rare",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/23434538.jpg"
+                },
+                {
+                    "id": "23434538",
+                    "set": "23434538",
+                    "name": "23434538",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "23434538",
+                    "rarity": "trainer gallery rare holo",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/23434538.jpg"
+                },
+                {
+                    "id": "23434538",
+                    "set": "23434538",
+                    "name": "23434538",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "23434538",
+                    "rarity": "Radiant Rare",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/23434538.jpg"
+                },
+                {
+                    "id": "30765615",
+                    "set": "30765615",
+                    "name": "30765615",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "30765615",
+                    "rarity": "trainer gallery rare holo",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/30765615.jpg"
+                },
+                {
+                    "id": "30765615",
+                    "set": "30765615",
+                    "name": "30765615",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "30765615",
+                    "rarity": "Rare Rainbow",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/30765615.jpg"
+                },
+                {
+                    "id": "30765615",
+                    "set": "30765615",
+                    "name": "30765615",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "30765615",
+                    "rarity": "Radiant Rare",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/30765615.jpg"
+                },
+                {
+                    "id": "35405755",
+                    "set": "35405755",
+                    "name": "35405755",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "35405755",
+                    "rarity": "Rare Ultra",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/35405755.jpg"
+                },
+                {
+                    "id": "45663742",
+                    "set": "45663742",
+                    "name": "45663742",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "45663742",
+                    "rarity": "Radiant Rare",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/45663742.jpg"
+                },
+                {
+                    "id": "9674034",
+                    "set": "9674034",
+                    "name": "9674034",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "9674034",
+                    "rarity": "trainer gallery rare holo",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/9674034.jpg"
+                },
+                {
+                    "id": "9674034",
+                    "set": "9674034",
+                    "name": "9674034",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "9674034",
+                    "rarity": "Rare Holo VMAX",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/9674034.jpg"
+                },
+                {
+                    "id": "90241276",
+                    "set": "90241276",
+                    "name": "90241276",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "90241276",
+                    "rarity": "Rare Holo VSTAR",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/90241276.jpg"
+                },
+                {
+                    "id": "90241276",
+                    "set": "90241276",
+                    "name": "90241276",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "90241276",
+                    "rarity": "Radiant Rare",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/90241276.jpg"
+                },
+                {
+                    "id": "9742784",
+                    "set": "9742784",
+                    "name": "9742784",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "9742784",
+                    "rarity": "Rare Holo VSTAR",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/9742784.jpg"
+                },
+                {
+                    "id": "12058741",
+                    "set": "12058741",
+                    "name": "12058741",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "12058741",
+                    "rarity": "trainer gallery rare holo",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/12058741.jpg"
+                },
+                {
+                    "id": "24081957",
+                    "set": "24081957",
+                    "name": "24081957",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "24081957",
+                    "rarity": "rare holo v",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/24081957.jpg"
+                },
+                {
+                    "id": "25311006",
+                    "set": "25311006",
+                    "name": "25311006",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "25311006",
+                    "rarity": "trainer gallery rare holo",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/25311006.jpg"
+                },
+                {
+                    "id": "35269904",
+                    "set": "35269904",
+                    "name": "35269904",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "35269904",
+                    "rarity": "trainer gallery rare holo",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/35269904.jpg"
+                },
+                {
+                    "id": "89023486",
+                    "set": "89023486",
+                    "name": "89023486",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "89023486",
+                    "rarity": "Radiant Rare",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/89023486.jpg"
+                },
+                {
+                    "id": "24224830",
+                    "set": "24224830",
+                    "name": "24224830",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "24224830",
+                    "rarity": "trainer gallery rare holo",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/24224830.jpg"
+                },
+                {
+                    "id": "24224830",
+                    "set": "24224830",
+                    "name": "24224830",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "24224830",
+                    "rarity": "rare holo v",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/24224830.jpg"
+                },
+                {
+                    "id": "80845034",
+                    "set": "80845034",
+                    "name": "80845034",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "80845034",
+                    "rarity": "Rare Holo VMAX",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/80845034.jpg"
+                },
+                {
+                    "id": "80845034",
+                    "set": "80845034",
+                    "name": "80845034",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "80845034",
+                    "rarity": "Radiant Rare",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/80845034.jpg"
+                },
+                {
+                    "id": "80845034",
+                    "set": "80845034",
+                    "name": "80845034",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "80845034",
+                    "rarity": "Rare Rainbow",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/80845034.jpg"
+                },
+                {
+                    "id": "16528181",
+                    "set": "16528181",
+                    "name": "16528181",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "16528181",
+                    "rarity": "Radiant Rare",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/16528181.jpg"
+                },
+                {
+                    "id": "16528181",
+                    "set": "16528181",
+                    "name": "16528181",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "16528181",
+                    "rarity": "trainer gallery rare holo",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/16528181.jpg"
+                },
+                {
+                    "id": "34090915",
+                    "set": "34090915",
+                    "name": "34090915",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "34090915",
+                    "rarity": "Rare Ultra",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/34090915.jpg"
+                },
+                {
+                    "id": "53639887",
+                    "set": "53639887",
+                    "name": "53639887",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "53639887",
+                    "rarity": "Radiant Rare",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/53639887.jpg"
+                },
+                {
+                    "id": "32756828",
+                    "set": "32756828",
+                    "name": "32756828",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "32756828",
+                    "rarity": "Rare Holo VMAX",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/32756828.jpg"
+                }
+            ],
+            "extra": [
+                {
+                    "id": "27572350",
+                    "set": "27572350",
+                    "name": "27572350",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "27572350",
+                    "rarity": "rare holo v",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/27572350.jpg"
+                },
+                {
+                    "id": "22850702",
+                    "set": "22850702",
+                    "name": "22850702",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "22850702",
+                    "rarity": "rare holo v",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/22850702.jpg"
+                },
+                {
+                    "id": "96633955",
+                    "set": "96633955",
+                    "name": "96633955",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "96633955",
+                    "rarity": "Rare Rainbow",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/96633955.jpg"
+                },
+                {
+                    "id": "84815190",
+                    "set": "84815190",
+                    "name": "84815190",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "84815190",
+                    "rarity": "Rare Rainbow",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/84815190.jpg"
+                },
+                {
+                    "id": "30983281",
+                    "set": "30983281",
+                    "name": "30983281",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "30983281",
+                    "rarity": "Rare Ultra",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/30983281.jpg"
+                },
+                {
+                    "id": "44508094",
+                    "set": "44508094",
+                    "name": "44508094",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "44508094",
+                    "rarity": "Radiant Rare",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/44508094.jpg"
+                },
+                {
+                    "id": "90448279",
+                    "set": "90448279",
+                    "name": "90448279",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "90448279",
+                    "rarity": "trainer gallery rare holo",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/90448279.jpg"
+                },
+                {
+                    "id": "93039339",
+                    "set": "93039339",
+                    "name": "93039339",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "93039339",
+                    "rarity": "Rare Ultra",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/93039339.jpg"
+                },
+                {
+                    "id": "73082255",
+                    "set": "73082255",
+                    "name": "73082255",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "73082255",
+                    "rarity": "Radiant Rare",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/73082255.jpg"
+                },
+                {
+                    "id": "63767246",
+                    "set": "63767246",
+                    "name": "63767246",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "63767246",
+                    "rarity": "Rare Ultra",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/63767246.jpg"
+                },
+                {
+                    "id": "38342336",
+                    "set": "38342336",
+                    "name": "38342336",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "38342336",
+                    "rarity": "Rare Ultra",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/38342336.jpg"
+                },
+                {
+                    "id": "29301450",
+                    "set": "29301450",
+                    "name": "29301450",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "29301450",
+                    "rarity": "rare holo v",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/29301450.jpg"
+                },
+                {
+                    "id": "65741786",
+                    "set": "65741786",
+                    "name": "65741786",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "65741786",
+                    "rarity": "trainer gallery rare holo",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/65741786.jpg"
+                },
+                {
+                    "id": "41999284",
+                    "set": "41999284",
+                    "name": "41999284",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "41999284",
+                    "rarity": "trainer gallery rare holo",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/41999284.jpg"
+                },
+                {
+                    "id": "50091196",
+                    "set": "50091196",
+                    "name": "50091196",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "50091196",
+                    "rarity": "Rare Holo VMAX",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/50091196.jpg"
+                }
+            ],
+            "side": [
+                {
+                    "id": "9753964",
+                    "set": "9753964",
+                    "name": "9753964",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "9753964",
+                    "rarity": "Rare Rainbow",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/9753964.jpg"
+                },
+                {
+                    "id": "72329844",
+                    "set": "72329844",
+                    "name": "72329844",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "72329844",
+                    "rarity": "Radiant Rare",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/72329844.jpg"
+                },
+                {
+                    "id": "60303245",
+                    "set": "60303245",
+                    "name": "60303245",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "60303245",
+                    "rarity": "Radiant Rare",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/60303245.jpg"
+                },
+                {
+                    "id": "3040496",
+                    "set": "3040496",
+                    "name": "3040496",
+                    "supertype": "Pokémon",
+                    "subtypes": [
+                        "Normal"
+                    ],
+                    "types": [
+                        "Water"
+                    ],
+                    "number": "3040496",
+                    "rarity": "Radiant Rare",
+                    "images": "https://cdn.233.momobako.com/ygopro/pics/3040496.jpg"
+                }
+            ]
+        }
+    ]
+}
