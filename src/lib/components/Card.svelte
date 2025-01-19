@@ -410,7 +410,7 @@
       <img
         class="card__back"
         src={back_img}
-        alt="The back of a Pokemon Card, a Pokeball in the center with Pokemon logo above and below"
+        alt="卡背"
         loading="lazy"
         width="660"
         height="921"
@@ -418,7 +418,7 @@
       <div class="card__front" style={staticStyles + foilStyles}>
         <img
           src={front_img}
-          alt="Front design of the {name} Pokemon Card, with the stats and info around the edge"
+          alt="{name}的卡面"
           on:load={imageLoader}
           loading="lazy"
           width="660"
