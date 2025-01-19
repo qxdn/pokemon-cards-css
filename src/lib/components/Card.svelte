@@ -38,7 +38,7 @@
 
   let back_img = back;
   let front_img = "";
-  let img_base = img.startsWith("http") ? "" : "http://localhost:5173";
+  let img_base = img.startsWith("http") ? "" : "";
 
   let thisCard;
   let repositionTimer;
