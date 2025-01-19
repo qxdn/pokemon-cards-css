@@ -18,7 +18,7 @@ jobs:
       - name: checkout
         uses: actions/checkout@v4
         with:
-          ref: main # 指定主分支
+          ref: ygo # 指定主分支
 
       - name: setup node
         uses: actions/setup-node@v4
