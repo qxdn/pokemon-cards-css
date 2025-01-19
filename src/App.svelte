@@ -38,7 +38,7 @@
     return getCards().then((cards) => {
       //window.cards = cards;
       showcase = cards[0];
-      basics = cards.slice(1, 3);
+      basics = cards.slice(1);
       reverse = [...cards.slice(4, 7), ...cards.slice(70, 76)];
       holos = cards.slice(7, 13);
       cosmos = cards.slice(13, 16);
@@ -129,6 +129,7 @@
           rarity={showcase.rarity}
           isReverse={showcase.isReverse}
           showcase={true}
+          img={showcase.images}
         />
       {/if}
     </div>
