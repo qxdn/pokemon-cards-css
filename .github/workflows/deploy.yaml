@@ -1,0 +1,43 @@
+name: deploy
+
+# 检测只有主分支的push操作会触发该工作流
+on:
+  push:
+    branches:
+      - ygo
+  workflow_dispatch: # 允许手动触发该工作流
+
+jobs:
+  build:
+    name: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 确保有写权限
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main # 指定主分支
+
+      - name: setup node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: install pnpm
+        run: npm install pnpm -g
+
+      - name: install dependencies
+        run: pnpm install
+
+      - name: build
+        run: pnpm build
+
+      - name: deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: pages
+          full_commit_message: ${{ github.event.head_commit.message }}
