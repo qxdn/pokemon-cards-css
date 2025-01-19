@@ -404,7 +404,7 @@
       on:pointermove={interact}
       on:mouseout={interactEnd}
       on:blur={deactivate}
-      aria-label="Expand the Pokemon Card; {name}."
+      aria-label="{name}."
       tabindex="0"
     >
       <img
